@@ -1,0 +1,20 @@
+/* src/LandingPage.css */
+.landing-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("C:\Users\hp\houseplant-store\houseplant-store\src\assets\Image\homepage7.jpg");
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.get-started-btn {
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 20px;
+}
